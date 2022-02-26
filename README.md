@@ -16,3 +16,7 @@ Use regenerateSSL.sh script with system native cron system to renew certificates
 -  example.com -> your-domain.com
 - /path/to/this/project/dir -> < absolute  cloned dir of this project >
 - <your-emmail-here -> an actual email , which bind it with your domain by letsencrypt
+
+
+### This project is followed by tutorial from digitalOcean
+You can find it  [here](https://www.digitalocean.com/community/tutorials/how-to-secure-a-containerized-node-js-application-with-nginx-let-s-encrypt-and-docker-compose#step-6-renewing-certificates)
